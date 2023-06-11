@@ -2,3 +2,4 @@ logs/*.txt
 sampledata/*.txt
 coverage.out
 TODO
+.DS_Store
