@@ -2,6 +2,8 @@
 
 This is a tutorial showing real time processing using [Kafka](https://kafka.apache.org/) and [MongoDB](https://www.mongodb.com/).
 
+Article: [Real time data processing: easily processing 10 million messages with Golang, Kafka and MongoDB](https://www.linkedin.com/pulse/real-time-data-processing-easily-10-million-messages-golang-melo)
+
 ## requirements
 - [Kafka](https://kafka.apache.org/)
 - [MongoDB](https://www.mongodb.com/)
